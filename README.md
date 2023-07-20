@@ -14,12 +14,12 @@ I'm currently developing my projects, eager to continue learning.
 </br>
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/dani89rosa@gmial.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
+[![Website](https://img.shields.io/badge/www.granped.es-paguina_web_-D14836?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://granped.es)
 </br>
-[![Web](https://img.shields.io/badge/dani89rosa@gmial.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
+<!--
+[![Email](https://img.shields.io/badge/dani89rosa@gmial.com-correo_electronico_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
 </br>
 
-<!--
 **sudja89/sudja89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
