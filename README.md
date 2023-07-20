@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Daniel
 
-I'm currently a student of multiplatform application development, eager to keep learning.
+I'm currently developing my projects, eager to continue learning.
 
 ## Skills: 
 
