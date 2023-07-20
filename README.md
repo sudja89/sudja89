@@ -16,6 +16,8 @@ I'm currently developing my projects, eager to continue learning.
 ## Contact me:
 [![Email](https://img.shields.io/badge/dani89rosa@gmial.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
 </br>
+[![Web](https://img.shields.io/badge/dani89rosa@gmial.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
+</br>
 
 <!--
 **sudja89/sudja89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
