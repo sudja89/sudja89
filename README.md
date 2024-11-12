@@ -13,10 +13,9 @@ I'm currently developing my projects, eager to continue learning.
 <!--[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()-->
 </br>
 
-## Contact me:
-<!--[![Website](https://img.shields.io/badge/www.granped.es-paguina_web_-D14836?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://granped.es)
-</br>-->
-<!--
+<!--## Contact me:
+[![Website](https://img.shields.io/badge/www.granped.es-paguina_web_-D14836?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://granped.es)
+</br>
 [![Email](https://img.shields.io/badge/dani89rosa@gmial.com-correo_electronico_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dani89rosa@gmial.com)
 </br>
 
